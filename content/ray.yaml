@@ -13,7 +13,7 @@ inbounds:
   streamSettings:
     network: ws
     wsSettings:
-      path: /UUID-vl
+      path: /uuid-vm
   sniffing:
     enabled: false
     destOverride:
